@@ -1,7 +1,7 @@
 # Tammy H. Le
 
 Hi class! Welcome to my personal page. 
-![Tammy] (2333B8CA-848F-46BE-A9A1-F58664ACCADC.JPG)
+![Tammy](2333B8CA-848F-46BE-A9A1-F58664ACCADC.JPG)
 
 ## About Me 
 
