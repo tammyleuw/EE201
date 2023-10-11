@@ -19,7 +19,7 @@ I'm a junior/senior student majoring in Electrical and Computer Engineering tran
 ## Hobbies
 
 - I had two pet bunnies, one died the beginning of the quarter but I love caring for them to destress
-- I dj on my spare time at parties and Seattle clubs
+- I DJ on my spare time at parties and Seattle clubs
 - I love fashion, drawing, and picture taking
 - I enjoy going to the gym, hiking, and volleyball
 - During my spare time I work on individual projects, some apps and website making anything I can learn that seems interesting to me
