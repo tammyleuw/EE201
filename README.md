@@ -1,11 +1,10 @@
 # Tammy H. Le
 
-Hello! Welcome to my personal page. 
 ![Tammy](tammy.jpg)
 
 ## About Me 
 
-I'm a University student majoring in Electrical and Computer Engineering. 
+Hello, welcome to my GITHUB! This is me, an Electrical and Computer Engineering student at the University of Washington - Seattle. I'm passionate about challenging myself to grow, multitasking, and exploring business and technology. My goal is to learn, create sustainable projects, and make a positive impact locally and globally through leadership experiences and leveraging my tech expertise for meaningful change. 
 
 ##  K-12 Tech. Experience...
 In elementary school, I would mess around with HTML to customize personal websites from games. In middle school, I participated in Techology Student Association (TSA) and worked with 3D printing/engraving machines, soldering, and built a  a CO2 drag car my first project along with the use of technical equipment. I built and customized websites during my spare time. In high school, I participated in robotics for a 2/3 years and enrolled in AP Computer Science courses during my junior and senior years. During the summer, I enrolled in Python courses my junior/senior summer.
