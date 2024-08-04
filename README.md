@@ -1,6 +1,6 @@
 # Tammy H. Le
 
-![Tammy](tammy.jpg)
+![Tammy](.jpg)
 
 ## About Me 
 
